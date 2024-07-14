@@ -1,0 +1,11 @@
+.red {
+  color: red;
+}
+.main {
+  display: block;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 89vh;
+}
